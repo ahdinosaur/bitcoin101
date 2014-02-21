@@ -17,7 +17,8 @@
     "semantic": "git+https://github.com/Semantic-Org/Semantic-UI#0.12.5",
     "font-awesome": "git+https://github.com/FortAwesome/Font-Awesome#v4.0.3",
     "longjohn": "~0.2.2",
-    "docpad-plugin-browserifybundles": "~2.0.0"
+    "docpad-plugin-browserifybundles": "~2.0.0",
+    "uglifyify": "~1.2.2"
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {
