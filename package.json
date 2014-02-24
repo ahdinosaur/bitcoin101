@@ -19,7 +19,8 @@
     "longjohn": "~0.2.2",
     "docpad-plugin-browserifybundles": "~2.0.0",
     "uglifyify": "~1.2.2",
-    "docpad-plugin-livereload": "~2.6.0"
+    "docpad-plugin-livereload": "~2.6.0",
+    "docpad-plugin-ejs": "git://github.com/perpetual-motion/docpad-plugin-ejs"
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {
@@ -28,7 +29,6 @@
     "deploy": "git remote add origin git@github.com:yourproject/yourproject.git; docpad deploy-ghpages --env static"
   },
   "devDependencies": {
-    "docpad-plugin-eco": "~2.0.3",
     "docpad-plugin-partials": "~2.8.1",
     "docpad-plugin-handlebars": "~2.3.0",
     "docpad-plugin-less": "~2.4.1",
