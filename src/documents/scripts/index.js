@@ -1,4 +1,13 @@
-Reveal = require('reveal.js/js/reveal.js', ['Reveal']);
+var $ = jQuery = require('jquery');
+require('./vendor/flowtype.js');
+
+$('body').flowtype({
+  minimum: 600,
+  maximum: 1100,
+  fontRatio: 50,
+});
+
+var Reveal = require('reveal.js/js/reveal.js', ['Reveal']);
 
 Reveal.initialize({
   // Display controls in the bottom right corner
@@ -6,9 +15,9 @@ Reveal.initialize({
   // Display a presentation progress bar
   progress: true,
   // Display the page number of the current slide
-  slideNumber: false,
+  slideNumber: true,
   // Push each slide change to the browser history
-  history: false,
+  history: true,
   // Enable keyboard shortcuts for navigation
   keyboard: true,
   // Enable the slide overview mode
@@ -49,5 +58,15 @@ Reveal.initialize({
   // Parallax background image
   parallaxBackgroundImage: '', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
   // Parallax background size
-  parallaxBackgroundSize: '' // CSS syntax, e.g. "2100px 900px"
+  parallaxBackgroundSize: '', // CSS syntax, e.g. "2100px 900px"
+  // The "normal" size of the presentation, aspect ratio will be preserved
+  // when the presentation is scaled to fit different resolutions. Can be
+  // specified using percentage units.
+  width: 960,
+  height: 700,
+  // Factor of the display size that should remain empty around the content
+  margin: 0.05,
+  // Bounds for smallest/largest possible scale to apply to content
+  minScale: 0.2,
+  maxScale: 1.8,
 });

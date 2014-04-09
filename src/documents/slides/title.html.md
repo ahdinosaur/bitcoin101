@@ -1,4 +1,9 @@
 ---
 order: 0
 ---
-hi, i'm slide 0!
+
+# "Bitcoin for Dummies"
+
+## by Michael ([ahdinosaur](http://dinosaur.is)) Williams
+
+!["dinosaur holding a bitcoin sign"](images/dinobitcoin.png)

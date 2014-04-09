@@ -5,7 +5,7 @@ pagedCollection: 'slides'
 <% renderSlides = (path) => %>
   <% for slide in @getSlides(path).toJSON(): %>
     <section>
-      <%= slide.contentRendered %>
+      <%- slide.contentRendered %>
 
       <%- renderSlides(path + slide.basename + "/") %>
     </section>
