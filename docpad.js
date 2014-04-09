@@ -47,6 +47,14 @@ module.exports = {
       deployBranch: 'gh-pages',
     },
   },
+  collections: {
+    slides: function () {
+      return this.getCollection('documents').findAllLive({
+        relativeOutDirPath: 'slides',
+        isPagedAuto: { $ne: true },
+      }).setComparator({ order: 1 });
+    },
+  },
   environments: {
     development: {
       port: 5000,

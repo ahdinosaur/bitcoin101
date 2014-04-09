@@ -1,0 +1,9 @@
+---
+isPaged: true
+pagedCollection: 'slides'
+---
+<% for slide in @getPageCollection('slides').toJSON(): %>
+  <section>
+    <%= slide.contentRendered %>
+  </section>
+<% end %>

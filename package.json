@@ -19,8 +19,9 @@
     "docpad-plugin-browserifybundles": "~2.0.0",
     "uglifyify": "~1.2.2",
     "docpad-plugin-livereload": "~2.6.0",
-    "docpad-plugin-ejs": "git://github.com/perpetual-motion/docpad-plugin-ejs",
-    "reveal.js": "git://github.com/ahdinosaur/reveal.js"
+    "reveal.js": "git://github.com/ahdinosaur/reveal.js",
+    "docpad-plugin-paged": "~2.2.4",
+    "docpad-plugin-eco": "~2.0.3"
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {
