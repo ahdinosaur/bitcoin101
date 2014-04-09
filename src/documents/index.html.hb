@@ -1,4 +1,4 @@
 ---
 layout: "default"
 ---
-{{partial "reveal.html.hb"}}
+{{partial "reveal.html.eco"}}

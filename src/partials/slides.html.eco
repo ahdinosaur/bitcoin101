@@ -2,8 +2,13 @@
 isPaged: true
 pagedCollection: 'slides'
 ---
-<% for slide in @getPageCollection('slides').toJSON(): %>
-  <section>
-    <%= slide.contentRendered %>
-  </section>
+<% renderSlides = (path) => %>
+  <% for slide in @getSlides(path).toJSON(): %>
+    <section>
+      <%= slide.contentRendered %>
+
+      <%- renderSlides(path + slide.basename + "/") %>
+    </section>
+  <% end %>
 <% end %>
+<%= renderSlides("/") %>

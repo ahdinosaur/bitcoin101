@@ -8,6 +8,13 @@ module.exports = {
       title: "bitcoin for dummies",
       description: "a primer on decentralized digial currencies",
     },
+    getSlides: function (path) {
+      var outPath = 'slides' + path.substring(0, path.length - 1);
+      return this.getCollection('documents').findAll({
+        relativeOutDirPath: outPath,
+        isPagedAuto: { $ne: true },
+      }, { order: 1 });
+    }
   },
   detectEncoding: true,
   plugins: {
@@ -45,14 +52,6 @@ module.exports = {
     ghpages: {
       deployRemote: 'origin',
       deployBranch: 'gh-pages',
-    },
-  },
-  collections: {
-    slides: function () {
-      return this.getCollection('documents').findAllLive({
-        relativeOutDirPath: 'slides',
-        isPagedAuto: { $ne: true },
-      }).setComparator({ order: 1 });
     },
   },
   environments: {
