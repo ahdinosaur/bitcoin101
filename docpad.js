@@ -5,8 +5,8 @@ require('longjohn');
 module.exports = {
   templateData: {
     site: {
-      title: "yourproject is",
-      description: "a really awesome idea!",
+      title: "bitcoin for dummies",
+      description: "a primer on decentralized digial currencies",
     },
   },
   detectEncoding: true,
@@ -23,7 +23,7 @@ module.exports = {
     },
     browserifybundles: {
       bundles: [{
-        arguments: ['-t', 'uglifyify'],
+        arguments: ['-g', 'uglifyify'],
         entry: 'scripts/index.js',
         out: 'scripts/bundle.js',
       }],
@@ -40,9 +40,6 @@ module.exports = {
     raw: {
       'font-awesome': {
         command: ['rsync', '-r', 'node_modules/font-awesome/fonts/', 'out/fonts'],
-      },
-      semantic: {
-        command: ['rsync', '-r', 'node_modules/semantic/src/fonts/', 'out/fonts'],
       },
     },
     ghpages: {

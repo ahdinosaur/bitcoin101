@@ -1,13 +1,13 @@
-# yourproject.is
+# bitcoin-for-dummies
 
-website for [yourproject](http://yourproject.is) built using [DocPad](http://docpad.org).
+[Bitcoin for Dummmies presentation](http://dinosaur.is/bitcoin-for-dummies) built using [DocPad](http://docpad.org).
 
 ## how to
 
 ### install
 
 ```
-git clone https://github.com/yourname/yourproject.is
+git clone https://github.com/ahdinosaur/bitcoin-for-dummies
 npm install
 ```
 
