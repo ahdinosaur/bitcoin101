@@ -1,12 +1,3 @@
-var $ = jQuery = require('jquery');
-require('./vendor/flowtype.js');
-
-$('body').flowtype({
-  minimum: 600,
-  maximum: 1100,
-  fontRatio: 50,
-});
-
 var Reveal = require('reveal.js/js/reveal.js', ['Reveal']);
 
 Reveal.initialize({

@@ -22,8 +22,7 @@
     "reveal.js": "git://github.com/ahdinosaur/reveal.js",
     "docpad-plugin-paged": "~2.2.4",
     "docpad-plugin-eco": "~2.0.3",
-    "docpad-plugin-marked": "~2.2.0",
-    "jquery": "^2.1.0"
+    "docpad-plugin-marked": "~2.2.0"
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {

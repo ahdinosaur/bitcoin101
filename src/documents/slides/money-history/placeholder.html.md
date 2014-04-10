@@ -2,8 +2,8 @@
 order: 4
 ---
 
-# placeholder money
+# placeholders
 
 instead of carrying physical commodities, people started using paper notes (token coins, credit cards, electronic bits) to act as placeholders for real money
 
-![picture of US silver certificate](images/silver-certificate.jpg)
+<img alt="picture of US silver certificate" src="images/silver-certificate.jpg" width="750px" />

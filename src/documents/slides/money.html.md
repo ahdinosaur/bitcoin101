@@ -2,7 +2,7 @@
 order: 1
 ---
 
-# what is *money*?
+# what is **money**?
 
 - a medium of exchange
 - a unit of account

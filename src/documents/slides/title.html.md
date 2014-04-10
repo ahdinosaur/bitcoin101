@@ -6,4 +6,4 @@ order: 0
 
 ## by Michael ([ahdinosaur](http://dinosaur.is)) Williams
 
-![dinosaur holding a bitcoin sign](images/dinobitcoin.png)
+<img alt="dinosaur holding a bitcoin sign" src="images/dinobitcoin.png" width="400px" />
