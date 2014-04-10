@@ -5,8 +5,8 @@ require('longjohn');
 module.exports = {
   templateData: {
     site: {
-      title: "bitcoin for dummies",
-      description: "a primer on decentralized digial currencies",
+      title: "Bitcoin 101",
+      description: "a primer on decentralized digital currencies",
     },
     getSlides: function (path) {
       var outPath = 'slides' + path.substring(0, path.length - 1);

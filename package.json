@@ -1,17 +1,17 @@
 {
-  "name": "bitcoin-for-dummies",
+  "name": "bitcoin101",
   "version": "0.1.0",
-  "description": "bitcoin-for-dummies website",
+  "description": "bitcoin101 website",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ahdinosaur/bitcoin-for-dummies.git"
+    "url": "git://github.com/ahdinosaur/bitcoin101.git"
   },
-  "author": "",
-  "license": "MIT",
+  "author": "ahdinosaur",
+  "license": "CC-BY-SA",
   "bugs": {
-    "url": "https://github.com/ahdinosaur/bitcoin-for-dummies/issues"
+    "url": "https://github.com/ahdinosaur/bitcoin101/issues"
   },
-  "homepage": "http://dinosaur.is/bitcoin-for-dummies",
+  "homepage": "http://dinosaur.is/bitcoin101",
   "dependencies": {
     "docpad": "~6.63.7",
     "font-awesome": "git+https://github.com/FortAwesome/Font-Awesome#v4.0.3",

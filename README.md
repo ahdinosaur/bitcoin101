@@ -1,13 +1,13 @@
-# bitcoin-for-dummies
+# bitcoin101
 
-[Bitcoin for Dummmies presentation](http://dinosaur.is/bitcoin-for-dummies) built using [DocPad](http://docpad.org).
+[Bitcoin 101 presentation](http://dinosaur.is/bitcoin101) built using [DocPad](http://docpad.org).
 
 ## how to
 
 ### install
 
 ```
-git clone https://github.com/ahdinosaur/bitcoin-for-dummies
+git clone https://github.com/ahdinosaur/bitcoin101
 npm install
 ```
 

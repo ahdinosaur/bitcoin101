@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <title>
-      <%= @site.title %> - <%= @document.title %>
+      <%= @site.title %>
     </title>
     <link rel="shortcut icon" href="favicon.ico" />
     <meta charset="utf-8" />
