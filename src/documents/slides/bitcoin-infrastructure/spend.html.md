@@ -2,7 +2,7 @@
 order: 5
 ---
 
-# Spending
+# Spend Bitcoin!
 
 Services allow consumers to buy anything with Bitcoin.
 

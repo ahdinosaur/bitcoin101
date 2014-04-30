@@ -1,10 +1,10 @@
 ---
-order: 4
+order: 3
 ---
 
 # Free
 
-### (as in speech, not as in beer)
+### (as in speech)
 
 Bitcoin software can be used on any computer system or mobile phone that is connected to the internet.
 

@@ -4,7 +4,7 @@ order: 6
 
 # Consistent
 
-Bitcoins are created by a consentual computational contest called mining.
+Bitcoins are controlled by a consentual computational contest called mining.
 
 People dedicate their computer's power to the network to generate hard-to-find and easy-to-prove numbers, whoever finds the number first attaches new transactions (a **block**) to the public ledger (the **blockchain**).
 
