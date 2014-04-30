@@ -4,7 +4,7 @@ order: 4
 
 # solution #3
 
-no trusted 3rd parties
+trust math, not 3rd parties
 
 - two people can do business without trusting each other
   - transactions are non-reversible

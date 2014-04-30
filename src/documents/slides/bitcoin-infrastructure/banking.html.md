@@ -6,7 +6,8 @@ order: 1
 
 storing bitcoins is easy
 
-- on your computer
-- on a piece of paper
-- on a flash drive
+- on a cloud server
+- on a desk/laptop
 - on a hardware wallet
+- on a flash drive
+- on a piece of paper

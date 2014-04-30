@@ -4,6 +4,6 @@ order: 0
 
 # Bitcoin
 
-**Bitcoin** is an open protocol for decentralized digital currency.
+**Bitcoin** is digital money you can send through the internet like email.
 
-a **bitcoin** is a unit of this currency.
+a **bitcoin** is a divisible amount of this money.

@@ -10,7 +10,6 @@
     <%- @getBlock("styles").add(["styles/index.css"]).toHTML() %>
   </head>
   <body>
-    <%- @partial("fork.html") %>
     <%- @content %>
     <%- @getBlock("scripts").add("scripts/bundle.js").toHTML() %>
   </body>

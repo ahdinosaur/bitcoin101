@@ -6,5 +6,6 @@ order: 4
 
 high transactional friction
 
-- high fees (2-4%)
-- not possible to pay on weekends
+- need exact change for paper
+- high fees (2-4%) for digital
+- not possible to transfer digital on weekends
