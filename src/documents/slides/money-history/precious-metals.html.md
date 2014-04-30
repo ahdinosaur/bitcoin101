@@ -2,9 +2,9 @@
 order: 3
 ---
 
-# precious metals
+# Precious metals
 
-preferred commodity because best physical properties
+Preferred commodity because best physical properties:
 
 - scarce
 - durable

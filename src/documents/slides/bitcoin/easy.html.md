@@ -2,6 +2,6 @@
 order: 1
 ---
 
-# easy
+# Easy
 
-you can send bitcoins to anyone, anywhere, any time, for the equivalent of a few cents
+You can send bitcoins to anyone, anywhere, any time, for the equivalent of a few cents.

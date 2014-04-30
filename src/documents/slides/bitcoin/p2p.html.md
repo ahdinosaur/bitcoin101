@@ -2,8 +2,6 @@
 order: 3
 ---
 
-# peer-to-peer
+# Peer-to-Peer
 
 Bitcoin is not owned or operated by any one person or company, it's a peer-to-peer network.
-
-all transactions are recorded on a public ledger (the **blockchain**).

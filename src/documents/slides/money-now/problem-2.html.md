@@ -2,9 +2,9 @@
 order: 4
 ---
 
-# problem #2
+# Problem #2
 
-high transactional friction
+Fiat has high transactional friction.
 
 - need exact change for paper
 - high fees (2-4%) for digital

@@ -2,9 +2,11 @@
 order: 4
 ---
 
-# easy to accept bitcoin
+# You Accept Bitcoins
 
-services allow merchants to accept bitcoin as fiat
+There are no fees for accepting Bitcoin, plus no chargebacks.
+
+There are even services that allow merchants to accept bitcoin as fiat:
 
 - [BitPay](https://bitpay.com)
 - [BitPagos](https://www.bitpagos.net)

@@ -2,9 +2,10 @@
 order: 3
 ---
 
-# solution #2
+# Solution #2
 
-low transactional friction
+Low transactional friction.
 
-- fees < 1%
+- infinitely divisible units
+- fees are < 1%
 - pay anyone anytime (24/7)

@@ -2,6 +2,6 @@
 order: 0
 ---
 
-# time to rethink money infrastructure
+# Time to Re-Think Money Infrastructure
 
-new money, why not new infrastructure?
+New money, why not new infrastructure?

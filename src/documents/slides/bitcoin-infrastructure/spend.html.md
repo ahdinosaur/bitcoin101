@@ -2,8 +2,8 @@
 order: 5
 ---
 
-# easy to spend bitcoin
+# Spending
 
-services allow consumers to buy anything with bitcoin
+Services allow consumers to buy anything with Bitcoin.
 
 - [SnapCard](https://www.joinsnapcard.com/)

@@ -2,4 +2,4 @@
 order: 0
 ---
 
-# **history** of money
+# **History** of Money

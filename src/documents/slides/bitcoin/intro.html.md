@@ -6,4 +6,4 @@ order: 0
 
 **Bitcoin** is digital money you can send through the internet like email.
 
-a **bitcoin** is a divisible amount of this money.
+A **bitcoin** is a unit of this money divisible by 8 decimal places.

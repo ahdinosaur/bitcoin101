@@ -2,12 +2,10 @@
 order: 4
 ---
 
-# free
+# Free
 
 ### (as in speech, not as in beer)
 
-Bitcoin allows you to have full control your money.
+Bitcoin software can be used on any computer system or mobile phone that is connected to the internet.
 
-anyone can create a Bitcoin wallet to have complete financial freedom.
-
-for merchants, there are no fees to accept bitcoins as payment and no chargebacks.
+Anyone can create a Bitcoin wallet to have complete financial freedom.

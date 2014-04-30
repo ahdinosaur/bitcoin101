@@ -2,9 +2,9 @@
 order: 1
 ---
 
-# anyone can be their own bank
+# Be Your Own Bank
 
-storing bitcoins is easy
+Storing bitcoins is easy:
 
 - on a cloud server
 - on a desk/laptop

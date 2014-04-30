@@ -1,10 +1,10 @@
 ---
-order: 6
+order: 7
 ---
 
-# rewarding
+# Rewarding
 
-whoever produces the next number in the contest is rewarded.
+Whoever produces the next number in the contest is rewarded.
 
 - numbers are produced at a consistent rate of 10 minutes per block
 - the reward starts at 50 bitcoins per block

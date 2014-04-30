@@ -2,13 +2,13 @@
 order: 1
 ---
 
-# barter
+# Barter
 
-example: a chicken for a bundle of lumber
+Example: a chicken for a bundle of lumber
 
-## limitations
+## Limitations
 
-- both people need to have what the other wants
-- no common measure of value
-- not all items are divisible
-- perishable items quickly depreciate in value
+- Both people need to have what the other wants
+- No common measure of value
+- Not all items are divisible
+- Perishable items quickly depreciate in value

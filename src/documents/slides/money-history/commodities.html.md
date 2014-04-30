@@ -2,9 +2,9 @@
 order: 2
 ---
 
-# commodities
+# Commodities
 
-single medium of exchange
+Single medium of exchange:
 
 - cattle
 - shells

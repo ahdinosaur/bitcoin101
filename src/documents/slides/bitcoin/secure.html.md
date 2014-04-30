@@ -1,9 +1,9 @@
 ---
-order: 7
+order: 8
 ---
 
-# secure
+# Secure
 
-only if the new transactions are valid do the miners receive a reward.
+Only if the new transactions are valid do the miners receive a reward.
 
-this incentivizes the network to be honest, which secures the network.
+This incentivizes the network to be honest, which secures the network.

@@ -2,11 +2,13 @@
 order: 2
 ---
 
-# exchanges
+# Exchange
 
-fiat -> bitcoin
+Fiat -> Bitcoin
 
-bitcoin -> fiat
+or
+
+Bitcoin -> Fiat
 
 - local exchanges like [localbitcoins](https://localbitcoins.com)
 - online exchanges like [campbx](https://campbx.com), [vaurum](https://vaurum.com/), ...
