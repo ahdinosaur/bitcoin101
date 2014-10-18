@@ -9,12 +9,14 @@
     "build-html": "node .",
     "build-js": "browserify . -o build/bundle.js",
     "build-css": "myth src/index.css build/bundle.css",
-    "build": "npm run build-html && npm run build-js && npm run build-css",
+    "build-assets": "cp -r assets/* build",
+    "build": "mkdir -p build && rm -rf build/* && npm run build-html && npm run build-js && npm run build-css && npm run build-assets",
     "deploy": "",
     "watch-html": "node . -w",
     "watch-js": "watchify . -o build/bundle.js",
     "watch-css": "myth -w src/index.css build/bundle.css",
-    "watch": "(npm run watch-html & npm run watch-js & npm run watch-css)",
+    "watch-assets": "cp -r assets/* build",
+    "watch": "mkdir -p build && rm -rf build/* && (npm run watch-html & npm run watch-js & npm run watch-css & npm run watch-assets)",
     "develop": "(npm run watch & node server)"
   },
   "repository": {
