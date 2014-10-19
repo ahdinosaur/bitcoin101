@@ -10,7 +10,7 @@ if (process.argv[2] === '-w') {
 
 m.use(plugins.collections({
   slides: {
-    pattern: "slides/*",
+    pattern: "slides/**/*.md",
     sortBy: "index",
   }
 }))
