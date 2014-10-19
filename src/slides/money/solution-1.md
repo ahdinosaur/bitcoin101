@@ -6,4 +6,4 @@ order: 11200
 
 Predictable money supply
 
-<img alt="graph of bitcoin supply" src="images/total-bitcoins-over-time-graph.png" width="600px" />
+<img alt="graph of bitcoin supply" src="images/total-bitcoins-over-time-graph.png" width="450px" />
