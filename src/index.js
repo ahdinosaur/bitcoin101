@@ -22,3 +22,10 @@ module.exports = bespoke.from('#slides', [
   forms(),
 ])
 ;
+
+// hack to get scale transform to work
+(function fireResize () {
+  var evt = document.createEvent('UIEvents');
+  evt.initUIEvent('resize', true, false, window, 0);
+  window.dispatchEvent(evt);
+})();
