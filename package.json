@@ -11,6 +11,7 @@
     "build-css": "myth src/index.css build/bundle.css",
     "build-assets": "cp -r assets/* build",
     "build": "mkdir -p build && rm -rf build/* && npm run build-html && npm run build-js && npm run build-css && npm run build-assets",
+    "start": "npm run build && node server",
     "deploy": "",
     "watch-html": "node . -w",
     "watch-js": "watchify . -o build/bundle.js",
