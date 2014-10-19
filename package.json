@@ -54,6 +54,6 @@
   },
   "devDependencies": {
     "connect": "^3.3.0",
-    "serve-static": "^1.7.0"
+    "ecstatic": "^0.5.5"
   }
 }
