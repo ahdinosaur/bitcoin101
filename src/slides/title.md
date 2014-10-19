@@ -1,5 +1,5 @@
 ---
-index: 0
+order: 0
 ---
 
 # "Bitcoin 101"
