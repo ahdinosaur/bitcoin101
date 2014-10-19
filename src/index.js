@@ -1,5 +1,6 @@
 var bespoke = require('bespoke');
 
+var classes = require('bespoke-classes');
 var keys = require('bespoke-keys');
 var touch = require('bespoke-touch');
 var bullets = require('bespoke-bullets');
@@ -9,9 +10,8 @@ var hash = require('bespoke-hash');
 var progress = require('bespoke-progress');
 var forms = require('bespoke-forms');
 
-var theme = require('bespoke-theme-voltaire');
-
 module.exports = bespoke.from('#slides', [
+  classes(),
   keys(),
   touch(),
   bullets('li, .bullet'),
@@ -20,6 +20,5 @@ module.exports = bespoke.from('#slides', [
   hash(),
   progress(),
   forms(),
-  theme(),
 ])
 ;
