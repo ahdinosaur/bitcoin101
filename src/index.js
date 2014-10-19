@@ -14,7 +14,7 @@ module.exports = bespoke.from('#slides', [
   classes(),
   keys(),
   touch(),
-  bullets('li, .bullet'),
+  bullets('.bullet'),
   backdrop(),
   scale(),
   hash(),
