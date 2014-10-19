@@ -8,4 +8,4 @@ order: 0
 
 ### [@ahdinosaur](http://dinosaur.is)
 
-<img alt="dinosaur holding a bitcoin sign" src="images/dinobitcoin.png" width="400px" />
+<img alt="dinosaur holding a bitcoin sign" src="images/dinobitcoin.png" width="300px" />

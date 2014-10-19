@@ -190,3 +190,15 @@ a {
 .emphatic {
   background: var(--orange);
 }
+
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+
+.planb {
+  background: center url('images/planb.jpg') no-repeat;
+  background-size: contain;
+}
