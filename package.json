@@ -12,7 +12,7 @@
     "build-assets": "cp -r assets/* build",
     "build": "mkdir -p build && rm -rf build/* && npm run build-html && npm run build-js && npm run build-css && npm run build-assets",
     "start": "npm run build && node server",
-    "deploy": "",
+    "deploy": "npm run build && bin/deploy",
     "watch-html": "node . -w",
     "watch-js": "watchify . -o build/bundle.js",
     "watch-css": "myth -w src/index.css build/bundle.css",
@@ -55,6 +55,7 @@
   },
   "devDependencies": {
     "connect": "^3.3.0",
-    "ecstatic": "^0.5.5"
+    "ecstatic": "^0.5.5",
+    "gh-pages": "^0.2.0"
   }
 }
