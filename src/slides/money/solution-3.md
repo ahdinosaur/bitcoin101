@@ -6,7 +6,7 @@ order: 11400
 
 Trust math, not 3rd parties.
 
-- two people can do business without trusting each other
-  - transactions are non-reversible
+- Two people can do business without trusting each other
+  - Transactions are non-reversible
   - 3rd parties can be used as escrow
-- everyone is their own bank
+- Everyone is their own bank

@@ -4,7 +4,9 @@ order: 10100
 
 # Barter
 
-Direct trade without money, e.g. a chicken for a bundle of lumber
+Direct trade without money
+
+*e.g. a chicken for a bundle of lumber*
 
 ## Limitations
 

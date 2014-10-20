@@ -6,6 +6,6 @@ order: 11300
 
 Low transactional friction.
 
-- infinitely divisible units
-- fees are < 1%
-- pay anyone anytime (24/7)
+- Infinitely divisible units
+- Fees are < 1%
+- Pay anyone anytime (24/7)

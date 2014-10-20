@@ -6,6 +6,6 @@ order: 10800
 
 High transactional friction.
 
-- need exact change for paper / coins
-- high fees (2-4%) for digital
-- not possible to transfer digital on weekends
+- Need exact change for paper / coins
+- High fees (2-4%) for digital
+- Digital may only work during business hours

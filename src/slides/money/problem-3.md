@@ -6,12 +6,12 @@ order: 10900
 
 Making a payment today requires trusting a 3rd party.
 
-- bank
-- credit union
-- credit card company
+- Bank
+- Credit union
+- Credit card company
 - ...
 
 These 3rd parties mediate disputes through reversible transactions (chargebacks).
 
-- increases costs and limits minimum transaction size
-- with possiblity of transaction reversal, need for trust spreads
+- Increases costs and limits minimum transaction size
+- With possiblity of transaction reversal, need for trust spreads

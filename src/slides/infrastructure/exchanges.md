@@ -4,13 +4,13 @@ order: 30200
 
 # Exchange
 
-Fiat -> Bitcoin
+Fiat to Bitcoin
 
 or
 
-Bitcoin -> Fiat
+Bitcoin to Fiat
 
-- local exchanges like [localbitcoins](https://localbitcoins.com)
-- online exchanges like [campbx](https://campbx.com), [vaurum](https://vaurum.com/), ...
-- online services like [coinbase](https://coinbase.com), ...
-- [local atms](http://bitcoinatmmap.com)
+- Local exchanges like [localbitcoins](https://localbitcoins.com)
+- Online exchanges like [campbx](https://campbx.com), [vaurum](https://vaurum.com/), ...
+- Online services like [coinbase](https://coinbase.com), ...
+- [Local ATMs](http://bitcoinatmmap.com)
