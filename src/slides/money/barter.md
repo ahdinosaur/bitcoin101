@@ -2,7 +2,7 @@
 order: 10100
 ---
 
-# Barter
+# No Money: Barter
 
 Example: a chicken for a bundle of lumber
 

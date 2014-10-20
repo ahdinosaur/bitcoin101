@@ -4,7 +4,6 @@ order: 10700
 
 # Problem #1
 
-Money supply is controlled 
-Central banks control our money supply to reach their ends.
+Central banks use our money supply as a tool in their game.
 
 <img alt="graph of Federal Reserve assets vs S&P 500 price" src="images/fed-assets-vs-stock-market.png" width="550px" />
