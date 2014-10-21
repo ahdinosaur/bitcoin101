@@ -2,8 +2,8 @@
 order: 100000
 ---
 
-Since it's inception, Bitcoin use has grown exponentially.
+Bitcoin use continues to grow exponentially.
 
-If Bitcoin is to be global money, it has more to grow.
+If Bitcoin is to be global money, it has more growing to do.
 
 # The End
